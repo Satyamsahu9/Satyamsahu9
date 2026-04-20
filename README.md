@@ -67,15 +67,14 @@
 - 🚀 FastAPI-powered backend for scalable API deployment  
 - 🔌 Exposed REST endpoints for real-time predictions  
 - 📊 Optimized for accuracy, performance & production readiness  
-- 🔗 Project Repo: https://github.com/vedantt02/fake-news-detection   
+-  
 
 ---
 
 ## 🏆 Competitive Coding
 
 | Platform | Profile |
-|--------|--------|
-| LeetCode | https://leetcode.com/u/Vedantt02/ |
+
 | CodeChef | https://www.codechef.com/users/satyam_9154 |
 
 ---
