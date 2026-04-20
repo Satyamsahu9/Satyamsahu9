@@ -9,7 +9,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 CSE Student passionate about *Backend Development & AI*
-- 🧠 Currently learning *DSA & Spring Boot*
+- 🧠 Currently learning *DSA & Spring Boot
 - ⚙️ Building *real-world Spring Boot & Microservices projects*
 - 🤝 Open to *collaboration & opportunities*
 - 📫 Reach me at: *adarshsahu9584@gmail.com*
