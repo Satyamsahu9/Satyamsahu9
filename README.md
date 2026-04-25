@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hey+👋,+I'm+Satyam+Sahu;CSE+Student+%7C+Backend+Developer;Java+%7C+Spring Boot;Building+Real+World+Projects+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hey+👋,+I%27m+Satyam+Sahu;CSE+Student+%7C+Backend+Developer;Java+%7C+Spring Boot;Building+Real+World+Projects+🚀" />
 </h1>
 
 <h3 align="center">Code. Build. Solve. Repeat. 🔁</h3>
@@ -9,7 +9,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 CSE Student passionate about *Backend Development & AI*
-- 🧠 Currently learning *DSA & Spring Boot
+- 🧠 Currently learning *DSA & Spring Boot*
 - ⚙️ Building *real-world Spring Boot & Microservices projects*
 - 🤝 Open to *collaboration & opportunities*
 - 📫 Reach me at: *adarshsahu9584@gmail.com*
@@ -19,7 +19,7 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="www.linkedin.com/in/satyam-sahu1234" target="blank">
+<a href="https://www.linkedin.com/in/satyam-sahu1234" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
